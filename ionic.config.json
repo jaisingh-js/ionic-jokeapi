@@ -1,0 +1,7 @@
+{
+  "name": "ionic-jokeapi",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
